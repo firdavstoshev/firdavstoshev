@@ -11,7 +11,3 @@
 ### 📈 Activity
 
 [![wakatime](https://wakatime.com/badge/user/018bfd38-b2e1-4e82-9ee6-6bb9f5dc4f72.svg)](https://wakatime.com/@018bfd38-b2e1-4e82-9ee6-6bb9f5dc4f72)
-
-[![WakatimeActivity](https://wakatime.com/share/@firdavstoshev/68215a0e-5076-4d3b-a624-712b754df8d0.svg)](https://wakatime.com/@firdavstoshev)
-
-<!-- ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=firdavstoshev&show_icons=true&theme=dark) -->
