@@ -1,6 +1,6 @@
 <h1 align="left">Salom 👋, I'm Firdavs</h1>
 
-- 👨‍💻 Back-end Developer at [Humo](https://www.instagram.com/humo.lab/).
+- 👨‍💻 Back-end Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
